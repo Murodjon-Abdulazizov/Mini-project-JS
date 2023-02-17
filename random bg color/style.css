@@ -1,0 +1,10 @@
+body{
+  transition: background-color 1s ease;
+}
+
+.inner{
+  border: 1px solid black;
+  margin-left: auto;
+  margin-top: 30px;
+  padding: 30px;
+}
